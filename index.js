@@ -110,7 +110,6 @@
   // Set up autorotate, if enabled.
   var autorotate = Marzipano.autorotate({
     yawSpeed: 0.03,
-    Pitch: 0,
     targetPitch: 0,
     targetFov: Math.PI/2
   });
@@ -235,6 +234,7 @@
     if (!autorotateToggleElement.classList.contains('enabled')) {
       return;
     }
+  			scene.view.setParameters(scene.data.initialViewParameters);
     viewer.startMovement(autorotate);
     viewer.setIdleMovement(3000, autorotate);
   }
