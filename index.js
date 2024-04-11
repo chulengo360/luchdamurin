@@ -110,8 +110,8 @@
   // Set up autorotate, if enabled.
   var autorotate = Marzipano.autorotate({
     yawSpeed: 0.03,
-    targetPitch: 0,
-    targetFov: Math.PI/2
+    targetPitch: 0.1,
+    targetFov: Math.PI/8
   });
   if (data.settings.autorotateEnabled) {
     autorotateToggleElement.classList.add('enabled');
