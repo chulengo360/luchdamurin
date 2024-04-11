@@ -234,7 +234,6 @@
     if (!autorotateToggleElement.classList.contains('enabled')) {
       return;
     }
-  			scene.view.setParameters(scene.data.initialViewParameters);
     viewer.startMovement(autorotate);
     viewer.setIdleMovement(3000, autorotate);
   }
@@ -409,5 +408,6 @@
 
   // Display the initial scene.
   switchScene(scenes[0]);
+  			
 
 })();
