@@ -192,15 +192,15 @@
     scene.scene.switchTo();
      // Start with the Autorate on desktop.
     if (!document.body.classList.contains('mobile')) {
-       // startAutorotate();
+       startAutorotate();
+scene.view.setParameters(scene.data.initialViewParameters);
     }
     else  {
         hideSceneList();
     }
     updateSceneName(scene);
     updateSceneList(scene);
-    //enableGiro(scene);
-    //scene.view.setParameters(scene.data.initialViewParameters);
+    enableGiro(scene);
   }
 
   function updateSceneName(scene) {
