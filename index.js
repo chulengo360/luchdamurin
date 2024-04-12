@@ -192,7 +192,7 @@
     scene.scene.switchTo();
      // Start with the Autorate on desktop.
     if (!document.body.classList.contains('mobile')) {
-        startAutorotate();
+       // startAutorotate();
     }
     else  {
         hideSceneList();
