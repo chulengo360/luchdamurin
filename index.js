@@ -200,6 +200,7 @@
     updateSceneName(scene);
     updateSceneList(scene);
     enableGiro(scene);
+    scene.view.setParameters(scene.data.initialViewParameters);
   }
 
   function updateSceneName(scene) {
