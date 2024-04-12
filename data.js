@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-esterno",
-      "name": "Esterno",
+      "name": "Esterno2",
       "levels": [
         {
           "tileSize": 256,
