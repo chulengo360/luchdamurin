@@ -44,7 +44,7 @@ var APP_DATA = {
         {
           "yaw": -1.448502216929688,
           "pitch": -0.4380710043291671,
-          "title": "L'agriturismo per le vostre vacanze in Alto Adige",
+          "title": "L'agriturismo2 per le vostre vacanze in Alto Adige",
           "text": "<div>Il Lüch da Murin è un maso ricco di storia e di storie da raccontare. Murin è il nome ladino per mulino. Qui infatti vi era un mulino con ben 4 ruote spinte dall'acqua della Gran Ega (Rio Gadera). È stato in funzione sino ai primi anni del novecento. Dagli anni '50 l'acqua è utilizzata per produrre energia elettrica pulita. Del vecchio mulino abbiamo conservato alcune macine e qualche oggetto da farvi vedere.</div><div><br></div><div>La sede del maso, cioè la stalla con fienile e la casa di famiglia, è salda al suo posto da centinaia di anni. È dal 1296 che questo luogo in riva al fiume è abitato da agricoltori, mugnai e artigiani. La nostra famiglia vive e lavora qui sin dalla metà del settecento. L'attività principale è da sempre l'allevamento di bestiame. Lo sfalcio, ovvero la raccolta del fieno sui verdi prati nei dintorni, è uno dei lavori più importanti. Il profumato fieno è l'alimento principale per i nostri animali durante la stagione fredda. Tuttora il maso è un'azienda agricola a gestione familiare dove tradizione e innovazione s'incontrano in una piccola attività di nicchia. Con l'allevamento di razze di animali rare, vogliamo contribuire a mantenere la biodiversità. L'attività agrituristica con un appartamento per le Vostre vacanze e la \"fattoria didattica\" per scolaresche e gruppi, integrano l'economia del maso.</div>"
         }
       ]
