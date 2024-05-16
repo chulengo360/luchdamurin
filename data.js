@@ -106,7 +106,7 @@ var APP_DATA = {
           "yaw": 0.978502216929688,
           "pitch": 0.1980710043291671,
           "title": "Lo Stangode",
-          "text": "<div>Storicamente era la stanza dei genitori, accessibile anche direttamente dalla stüa. Interamente rivestita in legno a cassettoni è particolarmente accogliente. Le due finestre si affacciano sul fiume Gran Ega e sulla Gherdenacia. I mobili in legno di pino cembro dal profumo inconfondibile e dagli effetti rilassanti, sono realizzati su misura e richiamano lo stile semplice ma autentico dell'ambiente antico.<br><br> Anche la seconda stanza da letto, doppia o matrimoniale, è lavorata interamente in legno. Le pareti e il pavimento sono opera di papà/nonno Paul, che oltre a fare il contadino, ha sempre avuto la passione di lavorare il legno. <br> Su richiesta è possibile aggiungere un lettino per bambini piccoli. Per i più piccoli è a disposizione un seggiolino, una sdraietta e alcuni giochi.</div>"
+          "text": "<div><img style=\"width: 100%\" src=\"https://www.luchdamurin.it/media/k2/galleries/175/960/luch_da_murin20.jpg\"></div><div>Storicamente era la stanza dei genitori, accessibile anche direttamente dalla stüa. Interamente rivestita in legno a cassettoni è particolarmente accogliente. Le due finestre si affacciano sul fiume Gran Ega e sulla Gherdenacia. I mobili in legno di pino cembro dal profumo inconfondibile e dagli effetti rilassanti, sono realizzati su misura e richiamano lo stile semplice ma autentico dell'ambiente antico.<br><br> Anche la seconda stanza da letto, doppia o matrimoniale, è lavorata interamente in legno. Le pareti e il pavimento sono opera di papà/nonno Paul, che oltre a fare il contadino, ha sempre avuto la passione di lavorare il legno. <br> Su richiesta è possibile aggiungere un lettino per bambini piccoli. Per i più piccoli è a disposizione un seggiolino, una sdraietta e alcuni giochi.</div>"
         }
       ]
     },
@@ -471,16 +471,10 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 1.428502216929688,
-          "pitch": -0.0380710043291671,
-          "title": "Il maso antico",
-          "text": "<div><img style=\"width: 100%\" src=\"https://www.luchdamurin.it/media/k2/galleries/199/1920/luch_da_murin10.jpg\"></div>"
-        },
-        {
-          "yaw": 2.178502216929688,
-          "pitch": 0.0980710043291671,
+          "yaw": 1.998502216929688,
+          "pitch": -0.0680710043291671,
           "title": "Un maso, tre generazioni",
-          "text": "<div>Da oltre 200 anni nelle mani della famiglia Nagler:<br>È probabilmente il punto di forza del maso, trasmettere saperi e averi di generazione in generazione. Vivendo a stretto contatto, le famiglie arricchiscono l'attività con esperienza e nuove idee. Dalla seconda metà del settecento la famiglia Nagler detiene e coltiva il Lüch da Murin. Nel 2000 è stata conferita al nostro maso la denominazione \"maso avito\" (Lüch de Familia), perché è di proprietà della stessa famiglia da oltre duecento anni. In Alto Adige vi sono oggi 1.166 masi ereditati. I masi chiusi in provincia di Bolzano sono circa 13.400. Sono chiamati \"chiusi\" i masi la cui superficie con tutte le strutture forma un'unità indivisibile. Le proprietà di tali aziende non possono dunque essere cedute o divise singolarmente.<br><br>Ora il maso è di Gottfried. È perito agrario e lavora per il consorzio agrario locale. Per anni ha lavorato per il servizio parchi naturali provinciale. La moglie Rossana originaria del Veneto, di Rosà, ha studiato geologia e lavorato per anni al MuSe di Trento. Da qui l'idea di avviare una fattoria didattica dedita a formare i ragazzi e a salvaguardare le razze di animali autoctone e minacciate. I figli Matthias e Veronica Heidi rappresentano il futuro del maso e già amano stare all'aria aperta e in compagnia degli animali. Sono ancora attivi sul maso i nonni Paolo e Rosina. Per quarant'anni hanno condotto l'azienda agricola rinnovando gran parte delle strutture.</div>"
+          "text": "<div><img style=\"width: 100%\" src=\"https://www.luchdamurin.it/media/k2/galleries/199/1920/luch_da_murin10.jpg\"></div><div>Da oltre 200 anni nelle mani della famiglia Nagler:<br>È probabilmente il punto di forza del maso, trasmettere saperi e averi di generazione in generazione. Vivendo a stretto contatto, le famiglie arricchiscono l'attività con esperienza e nuove idee. Dalla seconda metà del settecento la famiglia Nagler detiene e coltiva il Lüch da Murin. Nel 2000 è stata conferita al nostro maso la denominazione \"maso avito\" (Lüch de Familia), perché è di proprietà della stessa famiglia da oltre duecento anni. In Alto Adige vi sono oggi 1.166 masi ereditati. I masi chiusi in provincia di Bolzano sono circa 13.400. Sono chiamati \"chiusi\" i masi la cui superficie con tutte le strutture forma un'unità indivisibile. Le proprietà di tali aziende non possono dunque essere cedute o divise singolarmente.<br><br>Ora il maso è di Gottfried. È perito agrario e lavora per il consorzio agrario locale. Per anni ha lavorato per il servizio parchi naturali provinciale. La moglie Rossana originaria del Veneto, di Rosà, ha studiato geologia e lavorato per anni al MuSe di Trento. Da qui l'idea di avviare una fattoria didattica dedita a formare i ragazzi e a salvaguardare le razze di animali autoctone e minacciate. I figli Matthias e Veronica Heidi rappresentano il futuro del maso e già amano stare all'aria aperta e in compagnia degli animali. Sono ancora attivi sul maso i nonni Paolo e Rosina. Per quarant'anni hanno condotto l'azienda agricola rinnovando gran parte delle strutture.</div>"
         }
       ]
     },
