@@ -475,6 +475,12 @@ var APP_DATA = {
           "pitch": -0.0680710043291671,
           "title": "Un maso, tre generazioni",
           "text": "<div><img style=\"width: 100%\" src=\"https://www.luchdamurin.it/media/k2/galleries/199/1920/luch_da_murin10.jpg\"></div><div>Da oltre 200 anni nelle mani della famiglia Nagler:<br>È probabilmente il punto di forza del maso, trasmettere saperi e averi di generazione in generazione. Vivendo a stretto contatto, le famiglie arricchiscono l'attività con esperienza e nuove idee. Dalla seconda metà del settecento la famiglia Nagler detiene e coltiva il Lüch da Murin. Nel 2000 è stata conferita al nostro maso la denominazione \"maso avito\" (Lüch de Familia), perché è di proprietà della stessa famiglia da oltre duecento anni. In Alto Adige vi sono oggi 1.166 masi ereditati. I masi chiusi in provincia di Bolzano sono circa 13.400. Sono chiamati \"chiusi\" i masi la cui superficie con tutte le strutture forma un'unità indivisibile. Le proprietà di tali aziende non possono dunque essere cedute o divise singolarmente.<br><br>Ora il maso è di Gottfried. È perito agrario e lavora per il consorzio agrario locale. Per anni ha lavorato per il servizio parchi naturali provinciale. La moglie Rossana originaria del Veneto, di Rosà, ha studiato geologia e lavorato per anni al MuSe di Trento. Da qui l'idea di avviare una fattoria didattica dedita a formare i ragazzi e a salvaguardare le razze di animali autoctone e minacciate. I figli Matthias e Veronica Heidi rappresentano il futuro del maso e già amano stare all'aria aperta e in compagnia degli animali. Sono ancora attivi sul maso i nonni Paolo e Rosina. Per quarant'anni hanno condotto l'azienda agricola rinnovando gran parte delle strutture.</div>"
+        },
+        {
+          "yaw": 1.388502216929688,
+          "pitch": 0.3980710043291671,
+          "title": "Ascolta la musica",
+          "text": "<iframe width=\"100%\" style=\"min-height:240px;\" src=\"https://www.youtube.com/embed/8lp7cDn56uY?si=IaD8V1E-J5eNj_Eg\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><br> Hacer click en la icona <img width=20px height=auto src=\"img/youtube_fullscreen.png\"> para ver el video en pantalla completa. <br> Una vez terminado hacer click en la icona <img width=20px height=auto src=\"img/youtube_resize.png\"> o presionar ESC para volver a la vista actual."
         }
       ]
     },
