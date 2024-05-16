@@ -95,7 +95,20 @@ var APP_DATA = {
           "target": "8-stube2"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": 0.338502216929688,
+          "pitch": 0.0980710043291671,
+          "title": "Interrutori originali",
+          "text": "<div><img style=\"width: 100%\" src=\"https://www.luchdamurin.it/media/k2/galleries/164/960/luch_da_murin41.jpg\"></div>"
+        },
+        {
+          "yaw": 0.978502216929688,
+          "pitch": 0.1980710043291671,
+          "title": "Lo Stangode",
+          "text": "<div>Storicamente era la stanza dei genitori, accessibile anche direttamente dalla stüa. Interamente rivestita in legno a cassettoni è particolarmente accogliente. Le due finestre si affacciano sul fiume Gran Ega e sulla Gherdenacia. I mobili in legno di pino cembro dal profumo inconfondibile e dagli effetti rilassanti, sono realizzati su misura e richiamano lo stile semplice ma autentico dell'ambiente antico.<br><br> Anche la seconda stanza da letto, doppia o matrimoniale, è lavorata interamente in legno. Le pareti e il pavimento sono opera di papà/nonno Paul, che oltre a fare il contadino, ha sempre avuto la passione di lavorare il legno. <br> Su richiesta è possibile aggiungere un lettino per bambini piccoli. Per i più piccoli è a disposizione un seggiolino, una sdraietta e alcuni giochi.</div>"
+        }
+      ]
     },
     {
       "id": "2-cameretta",
@@ -400,13 +413,13 @@ var APP_DATA = {
           "yaw": 1.648502216929688,
           "pitch": 0.0380710043291671,
           "title": "L'agriturismo per le vostre vacanze in Alto Adige",
-          "text": "<div>Il Lüch da Murin è un maso ricco di storia e di storie da raccontare. Murin è il nome ladino per mulino. Qui infatti vi era un mulino con ben 4 ruote spinte dall'acqua della Gran Ega (Rio Gadera). È stato in funzione sino ai primi anni del novecento. Dagli anni '50 l'acqua è utilizzata per produrre energia elettrica pulita. Del vecchio mulino abbiamo conservato alcune macine e qualche oggetto da farvi vedere.</div><div><br></div><div>La sede del maso, cioè la stalla con fienile e la casa di famiglia, è salda al suo posto da centinaia di anni. È dal 1296 che questo luogo in riva al fiume è abitato da agricoltori, mugnai e artigiani. La nostra famiglia vive e lavora qui sin dalla metà del settecento. L'attività principale è da sempre l'allevamento di bestiame. Lo sfalcio, ovvero la raccolta del fieno sui verdi prati nei dintorni, è uno dei lavori più importanti. Il profumato fieno è l'alimento principale per i nostri animali durante la stagione fredda. Tuttora il maso è un'azienda agricola a gestione familiare dove tradizione e innovazione s'incontrano in una piccola attività di nicchia. Con l'allevamento di razze di animali rare, vogliamo contribuire a mantenere la biodiversità. L'attività agrituristica con un appartamento per le Vostre vacanze e la \"fattoria didattica\" per scolaresche e gruppi, integrano l'economia del maso.</div>"
+          "text": "<div><img style=\"width: 100%\" src=\"https://www.luchdamurin.it/media/k2/galleries/185/1920/luch_da_murin10.jpg\"></div><div>Il Lüch da Murin è un maso ricco di storia e di storie da raccontare. Murin è il nome ladino per mulino. Qui infatti vi era un mulino con ben 4 ruote spinte dall'acqua della Gran Ega (Rio Gadera). È stato in funzione sino ai primi anni del novecento. Dagli anni '50 l'acqua è utilizzata per produrre energia elettrica pulita. Del vecchio mulino abbiamo conservato alcune macine e qualche oggetto da farvi vedere.</div><div><br></div><div>La sede del maso, cioè la stalla con fienile e la casa di famiglia, è salda al suo posto da centinaia di anni. È dal 1296 che questo luogo in riva al fiume è abitato da agricoltori, mugnai e artigiani. La nostra famiglia vive e lavora qui sin dalla metà del settecento. L'attività principale è da sempre l'allevamento di bestiame. Lo sfalcio, ovvero la raccolta del fieno sui verdi prati nei dintorni, è uno dei lavori più importanti. Il profumato fieno è l'alimento principale per i nostri animali durante la stagione fredda. Tuttora il maso è un'azienda agricola a gestione familiare dove tradizione e innovazione s'incontrano in una piccola attività di nicchia. Con l'allevamento di razze di animali rare, vogliamo contribuire a mantenere la biodiversità. L'attività agrituristica con un appartamento per le Vostre vacanze e la \"fattoria didattica\" per scolaresche e gruppi, integrano l'economia del maso.</div>"
         },
         {
           "yaw": 1.148502216929688,
           "pitch": 0.2380710043291671,
           "title": "La Stua",
-          "text": "<div>La stube o stüa, a seconda che si prediliga rispettivamente la dizione tedesca o ladina, è il soggiorno tipico di talune zone alpine. Un tempo era l'unico ambiente riscaldato della casa perché vi si trovava la stufa, vocabolo che in italiano deriva proprio da Stube. Generalmente la stanza era esposta a sud in modo tale da sfruttare al massimo il calore e la luce del sole durante i lunghi inverni.<div><br></div> Uno dei dettagli più frequenti e caratteristici è il rivestimento interno, il quale è realizzato completamente in legno, lavorato con profusione di dettagli e di ornamenti artistici.<div><br></div> La vita dell'intera famiglia, al di fuori del lavoro nei campi e nella stalla, si svolgeva principalmente qui. I pasti, la convivialità serale, le orazioni, le veglie sui defunti, i lavori anticamente tipici femminili quali il ricamo e la tessitura.</div>"
+          "text": "<div><img style=\"width: 100%\" src=\"https://www.luchdamurin.it/media/k2/galleries/164/960/luch_da_murin17.jpg\"></div><div>La stube o stüa, a seconda che si prediliga rispettivamente la dizione tedesca o ladina, è il soggiorno tipico di talune zone alpine. Un tempo era l'unico ambiente riscaldato della casa perché vi si trovava la stufa, vocabolo che in italiano deriva proprio da Stube. Generalmente la stanza era esposta a sud in modo tale da sfruttare al massimo il calore e la luce del sole durante i lunghi inverni.<div><br></div> Uno dei dettagli più frequenti e caratteristici è il rivestimento interno, il quale è realizzato completamente in legno, lavorato con profusione di dettagli e di ornamenti artistici.<div><br></div> La vita dell'intera famiglia, al di fuori del lavoro nei campi e nella stalla, si svolgeva principalmente qui. I pasti, la convivialità serale, le orazioni, le veglie sui defunti, i lavori anticamente tipici femminili quali il ricamo e la tessitura.</div>"
         }
       ]
     },
@@ -458,10 +471,10 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 1.548502216929688,
+          "yaw": 1.428502216929688,
           "pitch": -0.0380710043291671,
-          "title": "L'agriturismo per le vostre vacanze in Alto Adige",
-          "text": "<div>Il Lüch da Murin è un maso ricco di storia e di storie da raccontare. Murin è il nome ladino per mulino. Qui infatti vi era un mulino con ben 4 ruote spinte dall'acqua della Gran Ega (Rio Gadera). È stato in funzione sino ai primi anni del novecento. Dagli anni '50 l'acqua è utilizzata per produrre energia elettrica pulita. Del vecchio mulino abbiamo conservato alcune macine e qualche oggetto da farvi vedere.</div><div><br></div><div>La sede del maso, cioè la stalla con fienile e la casa di famiglia, è salda al suo posto da centinaia di anni. È dal 1296 che questo luogo in riva al fiume è abitato da agricoltori, mugnai e artigiani. La nostra famiglia vive e lavora qui sin dalla metà del settecento. L'attività principale è da sempre l'allevamento di bestiame. Lo sfalcio, ovvero la raccolta del fieno sui verdi prati nei dintorni, è uno dei lavori più importanti. Il profumato fieno è l'alimento principale per i nostri animali durante la stagione fredda. Tuttora il maso è un'azienda agricola a gestione familiare dove tradizione e innovazione s'incontrano in una piccola attività di nicchia. Con l'allevamento di razze di animali rare, vogliamo contribuire a mantenere la biodiversità. L'attività agrituristica con un appartamento per le Vostre vacanze e la \"fattoria didattica\" per scolaresche e gruppi, integrano l'economia del maso.</div>"
+          "title": "Il maso antico",
+          "text": "<div><img style=\"width: 100%\" src=\"https://www.luchdamurin.it/media/k2/galleries/199/1920/luch_da_murin10.jpg\"></div>"
         },
         {
           "yaw": 2.178502216929688,
