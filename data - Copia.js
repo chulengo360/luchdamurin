@@ -395,20 +395,7 @@ var APP_DATA = {
           "target": "8-stube2"
         }
       ],
-      "infoHotspots": [
-        {
-          "yaw": 1.648502216929688,
-          "pitch": 0.0380710043291671,
-          "title": "L'agriturismo per le vostre vacanze in Alto Adige",
-          "text": "<div>Il Lüch da Murin è un maso ricco di storia e di storie da raccontare. Murin è il nome ladino per mulino. Qui infatti vi era un mulino con ben 4 ruote spinte dall'acqua della Gran Ega (Rio Gadera). È stato in funzione sino ai primi anni del novecento. Dagli anni '50 l'acqua è utilizzata per produrre energia elettrica pulita. Del vecchio mulino abbiamo conservato alcune macine e qualche oggetto da farvi vedere.</div><div><br></div><div>La sede del maso, cioè la stalla con fienile e la casa di famiglia, è salda al suo posto da centinaia di anni. È dal 1296 che questo luogo in riva al fiume è abitato da agricoltori, mugnai e artigiani. La nostra famiglia vive e lavora qui sin dalla metà del settecento. L'attività principale è da sempre l'allevamento di bestiame. Lo sfalcio, ovvero la raccolta del fieno sui verdi prati nei dintorni, è uno dei lavori più importanti. Il profumato fieno è l'alimento principale per i nostri animali durante la stagione fredda. Tuttora il maso è un'azienda agricola a gestione familiare dove tradizione e innovazione s'incontrano in una piccola attività di nicchia. Con l'allevamento di razze di animali rare, vogliamo contribuire a mantenere la biodiversità. L'attività agrituristica con un appartamento per le Vostre vacanze e la \"fattoria didattica\" per scolaresche e gruppi, integrano l'economia del maso.</div>"
-        },
-        {
-          "yaw": 1.148502216929688,
-          "pitch": 0.2380710043291671,
-          "title": "La Stua",
-          "text": "<div>La stube o stüa, a seconda che si prediliga rispettivamente la dizione tedesca o ladina, è il soggiorno tipico di talune zone alpine. Un tempo era l'unico ambiente riscaldato della casa perché vi si trovava la stufa, vocabolo che in italiano deriva proprio da Stube. Generalmente la stanza era esposta a sud in modo tale da sfruttare al massimo il calore e la luce del sole durante i lunghi inverni.<div><br></div> Uno dei dettagli più frequenti e caratteristici è il rivestimento interno, il quale è realizzato completamente in legno, lavorato con profusione di dettagli e di ornamenti artistici.<div><br></div> La vita dell'intera famiglia, al di fuori del lavoro nei campi e nella stalla, si svolgeva principalmente qui. I pasti, la convivialità serale, le orazioni, le veglie sui defunti, i lavori anticamente tipici femminili quali il ricamo e la tessitura.</div>"
-        }
-      ]
+      "infoHotspots": []
     },
     {
       "id": "8-stube2",
@@ -456,20 +443,7 @@ var APP_DATA = {
           "target": "1-camera-da-letto"
         }
       ],
-      "infoHotspots": [
-        {
-          "yaw": 1.548502216929688,
-          "pitch": -0.0380710043291671,
-          "title": "L'agriturismo per le vostre vacanze in Alto Adige",
-          "text": "<div>Il Lüch da Murin è un maso ricco di storia e di storie da raccontare. Murin è il nome ladino per mulino. Qui infatti vi era un mulino con ben 4 ruote spinte dall'acqua della Gran Ega (Rio Gadera). È stato in funzione sino ai primi anni del novecento. Dagli anni '50 l'acqua è utilizzata per produrre energia elettrica pulita. Del vecchio mulino abbiamo conservato alcune macine e qualche oggetto da farvi vedere.</div><div><br></div><div>La sede del maso, cioè la stalla con fienile e la casa di famiglia, è salda al suo posto da centinaia di anni. È dal 1296 che questo luogo in riva al fiume è abitato da agricoltori, mugnai e artigiani. La nostra famiglia vive e lavora qui sin dalla metà del settecento. L'attività principale è da sempre l'allevamento di bestiame. Lo sfalcio, ovvero la raccolta del fieno sui verdi prati nei dintorni, è uno dei lavori più importanti. Il profumato fieno è l'alimento principale per i nostri animali durante la stagione fredda. Tuttora il maso è un'azienda agricola a gestione familiare dove tradizione e innovazione s'incontrano in una piccola attività di nicchia. Con l'allevamento di razze di animali rare, vogliamo contribuire a mantenere la biodiversità. L'attività agrituristica con un appartamento per le Vostre vacanze e la \"fattoria didattica\" per scolaresche e gruppi, integrano l'economia del maso.</div>"
-        },
-        {
-          "yaw": 2.178502216929688,
-          "pitch": 0.0980710043291671,
-          "title": "Un maso, tre generazioni",
-          "text": "<div>Da oltre 200 anni nelle mani della famiglia Nagler:<br>È probabilmente il punto di forza del maso, trasmettere saperi e averi di generazione in generazione. Vivendo a stretto contatto, le famiglie arricchiscono l'attività con esperienza e nuove idee. Dalla seconda metà del settecento la famiglia Nagler detiene e coltiva il Lüch da Murin. Nel 2000 è stata conferita al nostro maso la denominazione \"maso avito\" (Lüch de Familia), perché è di proprietà della stessa famiglia da oltre duecento anni. In Alto Adige vi sono oggi 1.166 masi ereditati. I masi chiusi in provincia di Bolzano sono circa 13.400. Sono chiamati \"chiusi\" i masi la cui superficie con tutte le strutture forma un'unità indivisibile. Le proprietà di tali aziende non possono dunque essere cedute o divise singolarmente.<br><br>Ora il maso è di Gottfried. È perito agrario e lavora per il consorzio agrario locale. Per anni ha lavorato per il servizio parchi naturali provinciale. La moglie Rossana originaria del Veneto, di Rosà, ha studiato geologia e lavorato per anni al MuSe di Trento. Da qui l'idea di avviare una fattoria didattica dedita a formare i ragazzi e a salvaguardare le razze di animali autoctone e minacciate. I figli Matthias e Veronica Heidi rappresentano il futuro del maso e già amano stare all'aria aperta e in compagnia degli animali. Sono ancora attivi sul maso i nonni Paolo e Rosina. Per quarant'anni hanno condotto l'azienda agricola rinnovando gran parte delle strutture.</div>"
-        }
-      ]
+      "infoHotspots": []
     },
     {
       "id": "9-bagno",
