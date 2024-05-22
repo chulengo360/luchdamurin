@@ -97,12 +97,6 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 0.338502216929688,
-          "pitch": 0.0980710043291671,
-          "title": "Alta Badia",
-          "text": "<iframe width=\"100%\" style=\"min-height:240px;\" src=\"https://www.youtube.com/embed/Tb1N38YXtWI?si=3GAtxwcYbI05IMfT\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><br> Hacer click en la icona <img width=20px height=auto src=\"img/youtube_fullscreen.png\"> para ver el video en pantalla completa. <br> Una vez terminado hacer click en la icona <img width=20px height=auto src=\"img/youtube_resize.png\"> o presionar ESC para volver a la vista actual."
-        },
-        {
           "yaw": 0.978502216929688,
           "pitch": 0.1980710043291671,
           "title": "Lo Stangode",
@@ -479,8 +473,8 @@ var APP_DATA = {
         {
           "yaw": 1.388502216929688,
           "pitch": 0.3980710043291671,
-          "title": "Ascolta la musica",
-          "text": "<iframe width=\"100%\" style=\"min-height:240px;\" src=\"https://www.youtube.com/embed/8lp7cDn56uY?si=IaD8V1E-J5eNj_Eg\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><br> Hacer click en la icona <img width=20px height=auto src=\"img/youtube_fullscreen.png\"> para ver el video en pantalla completa. <br> Una vez terminado hacer click en la icona <img width=20px height=auto src=\"img/youtube_resize.png\"> o presionar ESC para volver a la vista actual."
+          "title": "Alta Badia",
+          "text": "<iframe width=\"100%\" style=\"min-height:240px;\" src=\"https://www.youtube.com/embed/Tb1N38YXtWI?si=3GAtxwcYbI05IMfT\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><br> Hacer click en la icona <img width=20px height=auto src=\"img/youtube_fullscreen.png\"> para ver el video en pantalla completa. <br> Una vez terminado hacer click en la icona <img width=20px height=auto src=\"img/youtube_resize.png\"> o presionar ESC para volver a la vista actual."
         }
       ]
     },
